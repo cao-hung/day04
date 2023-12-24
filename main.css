@@ -1,0 +1,42 @@
+.container{ 
+    background-color:#f8f5f5;
+    padding-top :10;
+}
+.contt2{
+    background-color:#f1eaea;
+}
+.contt3{
+    background-color:gray;
+    padding: 10px;
+    border-width:1 ;
+}
+.h4{
+    display: flex;
+    flex-basis: 30%;
+}
+.head
+{
+    background-color:#f1eaea;
+
+}
+.phone{
+    background-color:#f1eaea;
+    display: flex;
+    color :rgb(20, 19, 19);
+
+}
+.signout{
+    color: red;
+}
+.hung {
+    display: flex;
+    margin-left: 20px;
+}
+.qtht{
+
+
+}
+.b-d-k{
+    display: flex;
+    color: aqua;
+}
